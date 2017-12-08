@@ -12,9 +12,9 @@ module.exports = {
     },
 
     'twitterAuth' : {
-        'consumerKey'       : 'your-consumer-key-here',
-        'consumerSecret'    : 'your-client-secret-here',
-        'callbackURL'       : 'http://localhost:8080/auth/twitter/callback'
+        'consumerKey'       : 'jF3zGXjfxvgNExNcy7ElM8zXT',
+        'consumerSecret'    : 'pFn3prkCSR7Ln3QQUM81eDnWBpFRciLhllGfTJG6Fv74GZ3B7k',
+        'callbackURL'       : 'http://127.0.0.1:8080/auth/twitter/callback'
     },
 
     'googleAuth' : {
