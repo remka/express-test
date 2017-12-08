@@ -47,4 +47,4 @@ require('./app/routes.js')(app, passport); // load our routes and pass in our ap
 // launch ======================================================================
 app.listen(port);
 console.log('The magic happens on port ' + port);
-console.log('Visit: http://127.0.0.1:' +  port + '/');
+console.log('Visit: http://localhost:' +  port + '/');

@@ -29,3 +29,4 @@ benchmarks/graphs
 .env
 .npm
 config/database.js
+config/auth.js
