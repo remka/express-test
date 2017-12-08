@@ -28,4 +28,4 @@ benchmarks/graphs
 # Other
 .env
 .npm
-config.js
+config/database.js
