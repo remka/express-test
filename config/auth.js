@@ -17,10 +17,11 @@ module.exports = {
         'callbackURL'       : 'http://127.0.0.1:8080/auth/twitter/callback'
     },
 
+    // https://support.google.com/googleapi/answer/6158849?authuser=1
     'googleAuth' : {
-        'clientID'      : 'your-secret-clientID-here',
-        'clientSecret'  : 'your-client-secret-here',
-        'callbackURL'   : 'http://localhost:8080/auth/google/callback'
+        'clientID'      : '215088546809-81j7cubtpe1it7igi6of9cq0o860gga0.apps.googleusercontent.com',
+        'clientSecret'  : 'clK9ZRTLfQ6P2DTvFmvWrXEp',
+        'callbackURL'   : 'http://127.0.0.1:8080/auth/google/callback'
     }
 
 };
